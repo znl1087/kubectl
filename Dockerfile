@@ -1,4 +1,4 @@
-FROM alpine
+FROM alpine:3.12
 
 LABEL version="2.0.0"
 LABEL name="kubectl"
